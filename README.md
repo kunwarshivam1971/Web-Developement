@@ -1,31 +1,43 @@
-🌐 Web Development Repository
-📖 About
-This repository contains web development projects and practice files created to learn and improve front-end development skills.
-​
-It includes exercises using HTML, CSS, and JavaScript, focusing on layout, styling, DOM manipulation, and user interaction.
-​
+# 🌐 Web Development Practicals
 
-🧠 Technologies Used
-HTML5
+## 📖 About
+This repository contains **web development practicals and practice files** created to learn and improve front-end development skills.  
+Each file focuses on a specific concept such as layout design, styling, DOM manipulation, events, and user interaction.
 
-CSS3
+---
 
-JavaScript
+## 🧠 Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+- DOM Manipulation  
+- Browser Events  
 
-DOM Manipulation
+---
 
-Browser Events
-​
+## 📂 Repository Structure (Units & Files)
 
-📂 Repository Structure
-File names follow a unit-based naming pattern:
+File names follow a **unit-based pattern**:
 
-practical1.*.html → Files related to Unit 1 (basic HTML/CSS/JS concepts).
+### 🧩 Unit 1 – Basics
+- Files named like: `practical1.something.html`  
+- Covers: basic HTML structure, text, links, images, simple CSS.
 
-practical2.*.html → Files related to Unit 2 (forms, validation, basic JS logic).
+### 🎨 Unit 2 – Forms & Styling
+- Files named like: `practical2.something.html`  
+- Covers: HTML forms, basic validation, CSS styling, simple layouts.
 
-practical3.*.html → Files related to Unit 3 (DOM manipulation, events, dynamic content).
+### ⚙️ Unit 3 – DOM & Events
+- Files named like: `practical3.something.html`  
+- Covers: DOM manipulation, event handling, dynamic content with JavaScript.
 
-practical4.*.html → Files related to Unit 4 (advanced DOM, canvas, interactivity).
+### 🎮 Unit 4 – Advanced Interaction
+- Files named like: `practical4.something.html`  
+- Covers: advanced DOM operations, canvas drawings, interactive UI elements.
 
-This makes it easy to find all practicals for a specific unit by checking the file name prefix.
+---
+
+## 🚀 How to Use This Repo
+1. Open any `practicalX.something.html` file in a browser.  
+2. Study the code to understand the concept for that unit.  
+3. Modify and experiment to strengthen your JavaScript and front-end skills.
